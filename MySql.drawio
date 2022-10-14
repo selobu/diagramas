@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T14:02:46.585Z" agent="5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="kA2LHk7ZuiSzlXt9kKs4" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T14:06:44.003Z" agent="5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="_HNLbWuYUB8SqLUIuJ05" version="20.4.1" type="github">
   <diagram id="qhtQPjDR4GYdPBG_F6J3" name="Mysql">
     <mxGraphModel dx="564" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.2" pageWidth="11000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -455,13 +455,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dAumnBdMv4Wa70-6qw1--100" value="NoSQL" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1855" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dAumnBdMv4Wa70-6qw1--103" value="Permite la opción de tener campos tipo JSON y manipular dicho datos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="1855" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dAumnBdMv4Wa70-6qw1--105" value="No es apropiada para diseñar una base de datos NoSQL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="1995" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dAumnBdMv4Wa70-6qw1--108" value="&lt;h1&gt;Sebastián López&lt;/h1&gt;&lt;p&gt;Mapa conceptual resumen MySql&lt;/p&gt;&lt;p&gt;https://gestionhseq.com&lt;/p&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="10" width="215" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
